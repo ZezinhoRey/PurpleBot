@@ -3,8 +3,8 @@
   "description": "[PurpleBot] Um userbot modular do Telegram em execução no Python 3.8 com um banco de dados sqlalchemy.",
   "logo": "https://i.ibb.co/fN3nTx0/image.png",
   "keywords": ["telegram", "userbot", "plugin", "modular", "productivity"],
-  "repository": "https://github.com/thewhiteharlot/PurpleBot",
-  "website": "https://github.com/thewhiteharlot/PurpleBot",
+  "repository": "https://github.com/ZezinhoRey/PurpleBot",
+  "website": "https://github.com/ZezinhoRey/PurpleBot",
   "success_url": "https://t.me/rokansu",
   "stack": "container",
   "env": {
